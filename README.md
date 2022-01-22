@@ -1,4 +1,4 @@
-# FIle_Deletion_Program
+# Zomboid cell clearing program
  Specifically designed for Project Zomboid map cell cleaning, uses TKinter module for GUI and allows users to delete repetitive files that are only denominated by two numbers.
  -----------------------------------------------------------------------------------
  How to use:
